@@ -42,5 +42,5 @@ Due to file size constraints on GitHub, the complete project package (including 
 
 ## 📩 Contact & Connect
 * **Author:** Vaibhav Kottalagi
-* **LinkedIn:** [](https://www.linkedin.com/in/vaibhav-kottalagi-9b5935265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+* **LinkedIn:** https://www.linkedin.com/in/vaibhav-kottalagi-9b5935265?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app
 *  **Email:** kottalagivaibhav@gmail.com 
